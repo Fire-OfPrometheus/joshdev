@@ -2321,7 +2321,7 @@ input[type='checkbox'] {
 
   .header__heading,
   .header__heading-link {
-    justify-self: center;
+    justify-self: end;
   }
 
   .header--top-center .header__heading-link,
